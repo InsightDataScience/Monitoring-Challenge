@@ -18,7 +18,7 @@ Submit an image of your dashboard in action. We will ask for the live dashboard 
 
 #### Monitoring Challenge + Starting Resources:
 
-1. Set up 3 t3.micro AWS EC2 instances
+1. Set up 3 t2.micro AWS EC2 instances
     * What is AWS? [(link)](https://youtu.be/qcY-uiEHhn0)
     * How to create an AWS account. [(link)](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
     * Launching and ssh-ing into your first EC2 instance. [(link)](https://docs.aws.amazon.com/quickstarts/latest/vmlaunch/step-1-launch-instance.html) [(link)](https://youtu.be/BCM9aaaWvR0)
