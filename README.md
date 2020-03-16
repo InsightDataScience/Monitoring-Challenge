@@ -7,7 +7,9 @@ today is to set up a monitoring stack to capture data points from two live EC2 i
 
 **All tools and AWS services are** ​ **FREE!**
 **Submission equals invitation to interview!** ​ ​ **Incomplete solutions are welcomed!**
-Submit an image of your dashboard in action. We will ask for the live dashboard during the interview!
+
+**Submit a single PDF containing an image of your dashboard in action and any additional notes.** 
+We will ask for the live dashboard during the interview!
 
 #### Tips On Getting Started:
 
