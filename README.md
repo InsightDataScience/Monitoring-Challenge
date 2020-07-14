@@ -5,11 +5,13 @@ Congratulations on making it to the Monitoring Challenge! Companies today are wo
 solutions to have better insight on the health and performance of their computing systems. Your challenge
 today is to set up a monitoring stack to capture data points from two live EC2 instances! ​ 
 
-**All tools and AWS services are** **FREE!**
+**All tools and AWS services are** **FREE!** 
 **Submission equals invitation to interview!** **Incomplete solutions are welcomed!**
 
 **Submit a single PDF containing an image of your dashboard in action and notes on your process.** 
 We will ask for the live dashboard during the interview!
+
+**The challenge is written with respects to AWS but GCP and AZURE solutions are welcomed!** 
 
 #### Tips On Getting Started:
 
