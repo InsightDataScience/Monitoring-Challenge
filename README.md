@@ -36,6 +36,8 @@ We will ask for the live dashboard during the interview!
 
 #### Optional:
 *  Collect and display network traffic rate, upload rate, and download rate.
+*  Use [DockProm](https://github.com/stefanprodan/dockprom) instead of manual implementation of Prometheus + Grafana
+*  Launch DockProm into a kubernetes cluster [[1]](https://prometheus.io/docs/prometheus/latest/configuration/configuration/#%3Ckubernetes_sd_config)[[2]](https://www.weave.works/blog/prometheus-and-kubernetes-monitoring-your-applications/)
 
 #### Support:
 
